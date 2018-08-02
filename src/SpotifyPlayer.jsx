@@ -51,6 +51,7 @@ class SpotifyPlayer extends Component {
         height={size.height}
         frameBorder="0"
         allowtransparency="true"
+        allow="encrypted-media"
       />
     );
   }
